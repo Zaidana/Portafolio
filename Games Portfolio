@@ -1,4 +1,4 @@
-*Background History
+###Background History
 
 I began learning about Unity and video game development in 2019, but it became more serious in 2023 when I had the opportunity 
 to be part of Generation's Bootcamp, which was designed and conducted in collaboration with Unity itself. At the same time, I 
@@ -10,8 +10,4 @@ along with a group of talented individuals.
 The first actual game that I created on my own was 'Far Far Away Kitty,' an infinite runner about a cat. The main objective is to 
 achieve the highest number of points and run for the longest time. This game was one of the tasks for the Utel Bootcamp.
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="file:///D:/Ana/Game%20Development/Far%20Far%20Away%20Kitty/MainPage_FarFarAwayKitty.png">
- <source media="(prefers-color-scheme: light)" srcset="file:///D:/Ana/Game%20Development/Far%20Far%20Away%20Kitty/MainPage_FarFarAwayKitty.png">
- <img alt="Shows the main page of the game Far Far Away Kitty, were the title are big letters in white, the background is a pixel art city and it has two buttons, one to start and the other one to quit the game">
-</picture>
+
